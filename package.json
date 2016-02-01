@@ -1,0 +1,28 @@
+{
+  "name": "check-prime",
+  "version": "1.0.0",
+  "description": "Node module for checking if a number is prime",
+  "main": "index.js",
+  "dependencies": {
+    "what-type": "^1.0.0",
+    "round-off": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "chai": "^3.5.0"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramcse/check-prime.git"
+  },
+  "keywords": ["isPrime", "get", "prime"],
+  "author": "Vikram <vikramcse.10@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikramcse/check-prime/issues"
+  },
+  "homepage": "https://github.com/vikramcse/check-prime#readme"
+}
